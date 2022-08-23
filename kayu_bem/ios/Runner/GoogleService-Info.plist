@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>264315968645-rsio1iqhk0on8tms6eltiertcfj5ci20.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.264315968645-rsio1iqhk0on8tms6eltiertcfj5ci20</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAzMdC___-m_AFF-k6O0TtOYkP3nCxe4qc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>264315968645</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.kytheradesenvolvimento.kayuBem</string>
+	<key>PROJECT_ID</key>
+	<string>kayu-bem</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kayu-bem.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:264315968645:ios:6686b24cfb9d47daf19dec</string>
+</dict>
+</plist>

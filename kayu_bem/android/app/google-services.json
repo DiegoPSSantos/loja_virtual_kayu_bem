@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "264315968645",
+    "project_id": "kayu-bem",
+    "storage_bucket": "kayu-bem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264315968645:android:e371e02cb1fdeceff19dec",
+        "android_client_info": {
+          "package_name": "br.com.kytheradesenvolvimento.kayu_bem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264315968645-uokf4ick615mebvn3g5dom6du02ovkb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdggTrf3cl9xIttPD8hjRSF1kuucHPL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264315968645-uokf4ick615mebvn3g5dom6du02ovkb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "264315968645-rsio1iqhk0on8tms6eltiertcfj5ci20.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.kytheradesenvolvimento.kayuBem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
